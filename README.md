@@ -17,4 +17,5 @@ I’m Angel Praise, an IT Support Technician and a dedicated learner in the **AL
 
 📬 Let’s connect!  
 Email: praiseangel61@gmail.com 
-LinkedIn: [linkedin.com/in/angelpraise
+
+LinkedIn: linkedin.com/in/angelpraise
