@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋🏽 About Me
 
-<!--
-**Angelp012/Angelp012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Angel Praise, an IT Support Technician and a dedicated learner in the **ALX Software Engineering Program**. My journey into software engineering began with a deep curiosity for how systems work and a desire to build tools that make everyday processes simpler and more efficient.
 
-Here are some ideas to get you started:
+⚙️ With hands-on experience in IT support and growing skills in backend development, I bridge the gap between troubleshooting real-world issues and building scalable solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 My goal is to become a **backend developer**, and eventually transition into **technical project management**, where I can lead teams and shape the systems we build.
+
+💡 I’m passionate about:
+- Creating tools that improve people's daily experiences.
+- Building systems that are secure, reliable, and scalable.
+- Learning technologies that empower communities.
+
+🏆 One of my early achievements was developing a **complaint management system** for university students, improving communication between them and administrators. I'm currently working on an **Airbnb Clone backend** using Django, DRF, PostgreSQL, and GraphQL as part of my ALX journey.
+
+🚀 I’m excited to collaborate on meaningful projects—especially those focused on efficiency, education, or community impact.
+
+📬 Let’s connect!  
+Email: praiseangel61@gmail.com 
+LinkedIn: [linkedin.com/in/angelpraise
